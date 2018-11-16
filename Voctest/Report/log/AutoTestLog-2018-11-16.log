@@ -1,0 +1,15 @@
+2018-11-16 10:26:09,577 - root - INFO - *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Auto  Test  Comming -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+2018-11-16 10:26:09,578 - root - INFO - 「Login Test Start：
+2018-11-16 10:26:20,356 - root - INFO - Test Case "test_1_login_success" Passed !
+2018-11-16 10:26:23,449 - root - INFO - _Login Test End」
+2018-11-16 10:26:23,449 - root - INFO - 「Login Test Start：
+2018-11-16 10:26:35,001 - root - INFO - Test Case "test_2_login_no_username" Passed !
+2018-11-16 10:26:37,080 - root - INFO - _Login Test End」
+2018-11-16 10:26:37,080 - root - INFO - 「Login Test Start：
+2018-11-16 10:26:50,033 - root - INFO - Test Case "test_3_login_no_passwd" Passed !
+2018-11-16 10:26:52,152 - root - INFO - _Login Test End」
+2018-11-16 10:26:52,152 - root - INFO - 「Login Test Start：
+2018-11-16 10:27:03,377 - root - INFO - Test Case "test_4_login_fail" Passed !
+2018-11-16 10:27:05,468 - root - INFO - _Login Test End」
+2018-11-16 10:27:09,028 - root - INFO - 发送邮件成功
+2018-11-16 10:27:09,028 - root - INFO - *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Auto  Test  Done -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
